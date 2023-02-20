@@ -28,5 +28,5 @@ class Person:
         if job in approved_jobs:
             self._job = job
         
-        else: with
+        else:
             print("Job must be in list of approved jobs.")
